@@ -1,0 +1,7 @@
+{
+  "samples": 1000,
+  "accuracy": 0.864,
+  "precision": 0.8792,
+  "recall": 0.844,
+  "f1": 0.8612
+}
